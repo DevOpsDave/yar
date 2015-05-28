@@ -31,9 +31,7 @@ def find_needle(needle, haystack)
 		end
 
 	end
-
 	return found
-
 end
 
 
